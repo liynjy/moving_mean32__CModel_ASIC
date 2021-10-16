@@ -2,13 +2,9 @@
 How to build a Bit Matched, Resource Precise, and Clock Cycle Accurate C Model for an ASIC / IC circuit module? 
 Example: Moving Mean of 32 point of input stream. 
 
-
-
-//-------------------------------------------------------
-//Author  : Lin Junyang
-//Version : 01
-//All rights reserved.
-//-------------------------------------------------------
+Author  : Lin Junyang
+Version : 01
+All rights reserved.
 
 This project teach you to build a Bit Matched, Resource Precise, and Clock Cycle Accurate C Model for an ASIC / IC circuit module.
 Challenges:
